@@ -1,7 +1,19 @@
 #!/usr/bin/bash
 #Problem Variant: 32749
-readonly BASE_DIR=~/
-readonly LOG_DIR=/tmp/s312749
+BASE_DIR=~/
+if [[ -v LAB0_BASE_DIR ]] && [[ ! -z "$LAB0_BASE_DIR" ]]; then
+  BASE_DIR=$LAB0_BASE_DIR
+  echo "Set BASE_DIR to: $BASE_DIR"
+else
+  echo "Use default BASE_DIR: $BASE_DIR"
+fi
+LOG_DIR=/tmp/s312749
+if [[ -v LAB0_LOG_DIR ]] && [[ ! -z "$LAB0_LOG_DIR" ]]; then
+  LOG_DIR=$LAB0_LOG_DIR
+  echo "Set LOG_DIR to: $LOG_DIR"
+else
+  echo "Use default LOG_DIR: $LOG_DIR"
+fi
 
 first() {
   cd $BASE_DIR
