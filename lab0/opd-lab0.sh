@@ -161,13 +161,13 @@ forth() {
     mkdir $LOG_DIR
   fi
 
-  wc --chars 2>/tmp/s312749/opd-lab0-errors.log ./beheeyem1/* | sort -r
+  wc -c 2>/tmp/s312749/opd-lab0-errors.log ./beheeyem1/* | sort -r
   echo "---"
   ls 2>>/tmp/s312749/opd-lab0-errors.log ./aron3 | sort -dr
   echo "---"
   cat ./magby4 -n | grep --invert-match --ignore-case "gth"
   echo "---"
-  wc --chars ./b* ./*/b* | sort -r
+  wc -c ./b* ./*/b* | sort -r
   echo "---"
   cat -n 2>&1 \
     ./aron3/seismitoad \
@@ -180,7 +180,7 @@ forth() {
     ./carvanha2/trapinch | 
     grep --invert-match "Be"
   echo "---"
-  wc --chars 1>/tmp/s312749/opd-lab0-output.log 2>/dev/null ./magby4
+  wc -c 1>/tmp/s312749/opd-lab0-output.log 2>/dev/null ./magby4
 }
 
 fifth() {
