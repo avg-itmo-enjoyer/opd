@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #Problem Variant: 32749
-BASE_DIR=~/
+BASE_DIR=~
 if [[ -v LAB0_BASE_DIR ]] && [[ ! -z "$LAB0_BASE_DIR" ]]; then
   BASE_DIR=$LAB0_BASE_DIR
   echo "Set BASE_DIR to: $BASE_DIR"
