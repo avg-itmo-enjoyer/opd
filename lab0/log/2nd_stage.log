@@ -1,0 +1,50 @@
+Use default BASE_DIR: /home/studs/s312749
+Use default LOG_DIR: /tmp/s312749
+-- 2-nd stage started --
+chmod: ./lavitar7: No such file or directory
+ls: /home/studs/s312749/lab0/aron3: Permission denied
+total 28
+d-wx-wx---  4 s312749 studs  8 20 сент. 12:10 aron3
+dr-x-wxrwx  5 s312749 studs  8 20 сент. 12:10 beheeyem1
+dr-xrwx-wx  4 s312749 studs  8 20 сент. 12:10 carvanha2
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:10 larvitar7
+----rw--w-  1 s312749 studs 36 20 сент. 12:10 magby4
+-rw-r--r--  1 s312749 studs 15 20 сент. 12:10 vigglytuff9
+----r--rw-  1 s312749 studs 11 20 сент. 12:10 wigglytuff9
+
+/home/studs/s312749/lab0/aron3:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1:
+total 11
+dr-x--x-wx  2 s312749 studs   2 20 сент. 12:10 bronzong
+drwxr-x-wx  2 s312749 studs   2 20 сент. 12:10 burmy
+-r-----r--  1 s312749 studs 166 20 сент. 12:10 klinklang
+-r--------  1 s312749 studs  36 20 сент. 12:10 politoed
+drwxrwxrwx  2 s312749 studs   2 20 сент. 12:10 taillow
+-r--r-----  1 s312749 studs 166 20 сент. 12:10 venonat
+
+/home/studs/s312749/lab0/beheeyem1/bronzong:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/burmy:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow:
+total 0
+
+/home/studs/s312749/lab0/carvanha2:
+total 7
+----rw-r--  1 s312749 studs  77 20 сент. 12:10 bidoof
+----r--rw-  1 s312749 studs  35 20 сент. 12:10 lampent
+drwxrwx--x  2 s312749 studs   2 20 сент. 12:10 numel
+-r--------  1 s312749 studs  41 20 сент. 12:10 serperior
+----rw-r--  1 s312749 studs 139 20 сент. 12:10 trapinch
+drwx--xr-x  2 s312749 studs   2 20 сент. 12:10 wailmer
+
+/home/studs/s312749/lab0/carvanha2/numel:
+total 0
+
+/home/studs/s312749/lab0/carvanha2/wailmer:
+total 0
+-- 2-nd stage completed --

@@ -1,0 +1,73 @@
+Use default BASE_DIR: /home/studs/s312749
+Use default LOG_DIR: /tmp/s312749
+-- 5-th stage started --
+rm: ./carvanha2/trapinchwigglytuff: Permission denied
+rm: ./carvanha2/trapinchwigglytuff: Permission denied
+rm: ./carvanha2/trapinch: Permission denied
+rm: ./carvanha2/numel: Permission denied
+rm: ./carvanha2/lampent: Permission denied
+rm: ./carvanha2/bidoof: Permission denied
+rm: ./carvanha2/wailmer: Permission denied
+rm: ./carvanha2/serperior: Permission denied
+rm: ./carvanha2: Directory not empty
+rm: aron3/snubbull: Permission denied
+ls: /home/studs/s312749/lab0/aron3: Permission denied
+total 28
+d-wx-wx---  4 s312749 studs  7 18 окт.  18:57 aron3
+dr-x-wxrwx  5 s312749 studs  9 18 окт.  18:56 beheeyem1
+dr-xrwx-wx  4 s312749 studs  9 18 окт.  18:56 carvanha2
+lrwxr-xr-x  1 s312749 studs  9 18 окт.  18:56 Copy_88 -> carvanha2
+-rw-r--r--  1 s312749 studs 37 18 окт.  18:56 larvitar7
+-rw-r--r--  1 s312749 studs 56 18 окт.  18:56 magby4_13
+-rw-r--r--  1 s312749 studs 15 18 окт.  18:56 vigglytuff9
+----r--rw-  2 s312749 studs 11 18 окт.  18:56 wigglytuff9
+
+/home/studs/s312749/lab0/aron3:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1:
+total 20
+dr-x--x-wx  2 s312749 studs   2 18 окт.  18:56 bronzong
+drwxr-x-wx  2 s312749 studs   2 18 окт.  18:56 burmy
+-r-----r--  1 s312749 studs 166 18 окт.  18:56 klinklang
+-r--------  1 s312749 studs  36 18 окт.  18:56 politoed
+drwxrwxrwx  4 s312749 studs   6 18 окт.  18:56 taillow
+lrwxr-xr-x  1 s312749 studs   8 18 окт.  18:56 venomantmagby -> ./magby4
+-r--r-----  1 s312749 studs 166 18 окт.  18:56 venonat
+
+/home/studs/s312749/lab0/beheeyem1/bronzong:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/burmy:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow:
+total 2
+-r--r--r--  1 s312749 studs 35 18 окт.  18:56 lampent
+drwxr-x--x  2 s312749 studs  2 18 окт.  18:56 numel
+-r--------  1 s312749 studs 41 18 окт.  18:56 serperior
+drwx--xr-x  2 s312749 studs  3 18 окт.  18:56 wailmer
+
+/home/studs/s312749/lab0/beheeyem1/taillow/numel:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow/wailmer:
+total 1
+-rw-r--r--  1 s312749 studs 37 18 окт.  18:56 larvitar7
+
+/home/studs/s312749/lab0/carvanha2:
+total 8
+----rw-r--  1 s312749 studs  77 18 окт.  18:56 bidoof
+----r--rw-  1 s312749 studs  35 18 окт.  18:56 lampent
+drwxrwx--x  2 s312749 studs   2 18 окт.  18:56 numel
+-r--------  1 s312749 studs  41 18 окт.  18:56 serperior
+----rw-r--  1 s312749 studs 139 18 окт.  18:56 trapinch
+----r--rw-  2 s312749 studs  11 18 окт.  18:56 trapinchwigglytuff
+drwx--xr-x  2 s312749 studs   2 18 окт.  18:57 wailmer
+
+/home/studs/s312749/lab0/carvanha2/numel:
+total 0
+
+/home/studs/s312749/lab0/carvanha2/wailmer:
+total 0
+-- 5-th stage completed --

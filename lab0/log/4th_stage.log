@@ -1,0 +1,26 @@
+Use default BASE_DIR: /home/studs/s312749
+Use default LOG_DIR: /tmp/s312749
+-- 4-th stage started --
+     368 total
+     166 ./beheeyem1/venonat
+     166 ./beheeyem1/klinklang
+      36 ./beheeyem1/politoed
+---
+---
+---
+       0 total
+---
+cat: ./carvanha2/lampent: Permission denied
+cat: ./carvanha2/trapinch: Permission denied
+     1	satk=9 sdef=8 spd=7
+     1	satk=9 sdef=5
+     2	spd=11
+     1	Тип покемона NORMAL NONE
+     1	Способности:
+     3	Screech Discharge Metal Sound Shift Gear Lock-On Zap Cannon Hyper
+     1	weight=74.7 height=43.0 atk=8
+     2	def=8
+     1	Способности:\tTackle Disable Foresight Supersonic
+     2	Confusion Poisonpowder Leech Life Stun Psybeam Sleep Powder
+---
+-- 4-th stage completed --

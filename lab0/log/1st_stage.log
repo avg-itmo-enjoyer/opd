@@ -1,0 +1,60 @@
+Use default BASE_DIR: /home/studs/s312749
+Use default LOG_DIR: /tmp/s312749
+-- 1-st stage started --
+total 4
+drwxr-xr-x  4 s312749 studs  8 20 сент. 12:10 aron3
+drwxr-xr-x  5 s312749 studs  8 20 сент. 12:10 beheeyem1
+drwxr-xr-x  4 s312749 studs  8 20 сент. 12:10 carvanha2
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:10 larvitar7
+-rw-r--r--  1 s312749 studs 36 20 сент. 12:10 magby4
+-rw-r--r--  1 s312749 studs 15 20 сент. 12:10 vigglytuff9
+-rw-r--r--  1 s312749 studs 11 20 сент. 12:10 wigglytuff9
+
+/home/studs/s312749/lab0/aron3:
+total 3
+-rw-r--r--  1 s312749 studs  21 20 сент. 12:10 liepard
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 porygonz
+-rw-r--r--  1 s312749 studs  20 20 сент. 12:10 seismitoad
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 snubbull
+-rw-r--r--  1 s312749 studs  36 20 сент. 12:10 ursaring
+-rw-r--r--  1 s312749 studs 147 20 сент. 12:10 vanillish
+
+/home/studs/s312749/lab0/aron3/porygonz:
+total 0
+
+/home/studs/s312749/lab0/aron3/snubbull:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1:
+total 3
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 bronzong
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 burmy
+-rw-r--r--  1 s312749 studs 166 20 сент. 12:10 klinklang
+-rw-r--r--  1 s312749 studs  36 20 сент. 12:10 politoed
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 taillow
+-rw-r--r--  1 s312749 studs 166 20 сент. 12:10 venonat
+
+/home/studs/s312749/lab0/beheeyem1/bronzong:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/burmy:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow:
+total 0
+
+/home/studs/s312749/lab0/carvanha2:
+total 3
+-rw-r--r--  1 s312749 studs  77 20 сент. 12:10 bidoof
+-rw-r--r--  1 s312749 studs  35 20 сент. 12:10 lampent
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 numel
+-rw-r--r--  1 s312749 studs  41 20 сент. 12:10 serperior
+-rw-r--r--  1 s312749 studs 139 20 сент. 12:10 trapinch
+drwxr-xr-x  2 s312749 studs   2 20 сент. 12:10 wailmer
+
+/home/studs/s312749/lab0/carvanha2/numel:
+total 0
+
+/home/studs/s312749/lab0/carvanha2/wailmer:
+total 0
+-- 1-st stage completed --

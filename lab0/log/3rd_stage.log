@@ -1,0 +1,131 @@
+Use default BASE_DIR: /home/studs/s312749
+Use default LOG_DIR: /tmp/s312749
+-- 3-rd stage started --
+cp: ./lavitar7: No such file or directory
+cp: ./carvanha2/bidoof: Permission denied
+cp: ./carvanha2/trapinch: Permission denied
+cp: ./carvanha2/trapinchwigglytuff: Permission denied
+ls: /home/studs/s312749/lab0/aron3: Permission denied
+total 29
+d-wx-wx---  4 s312749 studs  8 20 сент. 12:10 aron3
+drwx-wxrwx  5 s312749 studs  9 20 сент. 12:27 beheeyem1
+drwxrwx-wx  4 s312749 studs  9 20 сент. 12:27 carvanha2
+lrwxr-xr-x  1 s312749 studs  9 20 сент. 12:27 Copy_88 -> carvanha2
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:10 larvitar7
+----rw--w-  1 s312749 studs 36 20 сент. 12:10 magby4
+-rw-r--r--  1 s312749 studs 56 20 сент. 12:27 magby4_13
+-rw-r--r--  1 s312749 studs 15 20 сент. 12:10 vigglytuff9
+----r--rw-  2 s312749 studs 11 20 сент. 12:10 wigglytuff9
+
+/home/studs/s312749/lab0/aron3:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1:
+total 12
+dr-x--x-wx  2 s312749 studs   2 20 сент. 12:10 bronzong
+drwxr-x-wx  2 s312749 studs   2 20 сент. 12:10 burmy
+-r-----r--  1 s312749 studs 166 20 сент. 12:10 klinklang
+-r--------  1 s312749 studs  36 20 сент. 12:10 politoed
+drwxrwxrwx  4 s312749 studs   6 20 сент. 12:27 taillow
+lrwxr-xr-x  1 s312749 studs   8 20 сент. 12:27 venomantmagby -> ./magby4
+-r--r-----  1 s312749 studs 166 20 сент. 12:10 venonat
+
+/home/studs/s312749/lab0/beheeyem1/bronzong:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/burmy:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow:
+total 2
+-r--r--r--  1 s312749 studs 35 20 сент. 12:27 lampent
+drwxr-x--x  2 s312749 studs  2 20 сент. 12:27 numel
+-r--------  1 s312749 studs 41 20 сент. 12:27 serperior
+drwx--xr-x  2 s312749 studs  3 20 сент. 12:27 wailmer
+
+/home/studs/s312749/lab0/beheeyem1/taillow/numel:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow/wailmer:
+total 1
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:27 larvitar7
+
+/home/studs/s312749/lab0/carvanha2:
+total 8
+----rw-r--  1 s312749 studs  77 20 сент. 12:10 bidoof
+-r--r--rw-  1 s312749 studs  35 20 сент. 12:10 lampent
+drwxrwx--x  2 s312749 studs   2 20 сент. 12:10 numel
+-r--------  1 s312749 studs  41 20 сент. 12:10 serperior
+----rw-r--  1 s312749 studs 139 20 сент. 12:10 trapinch
+----r--rw-  2 s312749 studs  11 20 сент. 12:10 trapinchwigglytuff
+drwx--xr-x  2 s312749 studs   3 20 сент. 12:27 wailmer
+
+/home/studs/s312749/lab0/carvanha2/numel:
+total 0
+
+/home/studs/s312749/lab0/carvanha2/wailmer:
+total 1
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:27 larvitar7
+chmod: ./lavitar7: No such file or directory
+ls: /home/studs/s312749/lab0/aron3: Permission denied
+total 29
+d-wx-wx---  4 s312749 studs  8 20 сент. 12:10 aron3
+dr-x-wxrwx  5 s312749 studs  9 20 сент. 12:27 beheeyem1
+dr-xrwx-wx  4 s312749 studs  9 20 сент. 12:27 carvanha2
+lrwxr-xr-x  1 s312749 studs  9 20 сент. 12:27 Copy_88 -> carvanha2
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:10 larvitar7
+----rw--w-  1 s312749 studs 36 20 сент. 12:10 magby4
+-rw-r--r--  1 s312749 studs 56 20 сент. 12:27 magby4_13
+-rw-r--r--  1 s312749 studs 15 20 сент. 12:10 vigglytuff9
+----r--rw-  2 s312749 studs 11 20 сент. 12:10 wigglytuff9
+
+/home/studs/s312749/lab0/aron3:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1:
+total 20
+dr-x--x-wx  2 s312749 studs   2 20 сент. 12:10 bronzong
+drwxr-x-wx  2 s312749 studs   2 20 сент. 12:10 burmy
+-r-----r--  1 s312749 studs 166 20 сент. 12:10 klinklang
+-r--------  1 s312749 studs  36 20 сент. 12:10 politoed
+drwxrwxrwx  4 s312749 studs   6 20 сент. 12:27 taillow
+lrwxr-xr-x  1 s312749 studs   8 20 сент. 12:27 venomantmagby -> ./magby4
+-r--r-----  1 s312749 studs 166 20 сент. 12:10 venonat
+
+/home/studs/s312749/lab0/beheeyem1/bronzong:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/burmy:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow:
+total 2
+-r--r--r--  1 s312749 studs 35 20 сент. 12:27 lampent
+drwxr-x--x  2 s312749 studs  2 20 сент. 12:27 numel
+-r--------  1 s312749 studs 41 20 сент. 12:27 serperior
+drwx--xr-x  2 s312749 studs  3 20 сент. 12:27 wailmer
+
+/home/studs/s312749/lab0/beheeyem1/taillow/numel:
+total 0
+
+/home/studs/s312749/lab0/beheeyem1/taillow/wailmer:
+total 1
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:27 larvitar7
+
+/home/studs/s312749/lab0/carvanha2:
+total 8
+----rw-r--  1 s312749 studs  77 20 сент. 12:10 bidoof
+----r--rw-  1 s312749 studs  35 20 сент. 12:10 lampent
+drwxrwx--x  2 s312749 studs   2 20 сент. 12:10 numel
+-r--------  1 s312749 studs  41 20 сент. 12:10 serperior
+----rw-r--  1 s312749 studs 139 20 сент. 12:10 trapinch
+----r--rw-  2 s312749 studs  11 20 сент. 12:10 trapinchwigglytuff
+drwx--xr-x  2 s312749 studs   3 20 сент. 12:27 wailmer
+
+/home/studs/s312749/lab0/carvanha2/numel:
+total 0
+
+/home/studs/s312749/lab0/carvanha2/wailmer:
+total 1
+-rw-r--r--  1 s312749 studs 37 20 сент. 12:27 larvitar7
+-- 3-rd stage completed --

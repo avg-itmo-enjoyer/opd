@@ -186,10 +186,10 @@ forth() {
 fifth() {
   cd $BASE_DIR/lab0
   
-  rm ./magby4
-  rm ./aron3/ursaring
-  rm ./beheeyem1/venonatmag*
-  rm ./carvanha2/trapinchwigglytu*
+  rm -f ./magby4
+  rm -f ./aron3/ursaring
+  rm -f ./beheeyem1/venonatmag*
+  rm -f ./carvanha2/trapinchwigglytu*
   rm -rf ./carvanha2
   rm -rf aron3/snubbull
 
